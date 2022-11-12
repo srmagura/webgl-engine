@@ -3,6 +3,7 @@
   "packageManager": "yarn@3.2.4",
   "scripts": {
     "start": "webpack serve",
+    "build": "webpack",
     "prettier": "prettier ."
   },
   "devDependencies": {
