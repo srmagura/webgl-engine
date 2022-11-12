@@ -1,4 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
+  margin: 0;
   font-family: sans-serif;
-  background-color: #1f1a50;
+  background-color: #120f2c;
+
+  display: flex;
+  height: 100vh;
+}
+
+canvas {
+  flex: 1;
 }
